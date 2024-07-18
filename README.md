@@ -48,6 +48,11 @@
     - CHAPTER 13 카프카 모니터링하기
     - CHAPTER 14 스트림 처리
 
+## 자료
+
+- [대규모 시스템 설계 기초](https://m.yes24.com/Goods/Detail/102819435)
+- [카프카 핵심 가이드](https://m.yes24.com/Goods/Detail/118397432)
+
 ## 참여자
 
 <table>
