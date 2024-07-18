@@ -48,6 +48,11 @@
     - CHAPTER 13 카프카 모니터링하기
     - CHAPTER 14 스트림 처리
 
+## 자료
+
+- [대규모 시스템 설계 기초](https://m.yes24.com/Goods/Detail/102819435)
+- [카프카 핵심 가이드](https://m.yes24.com/Goods/Detail/118397432)
+
 ## 참여자
 
 <table>
@@ -67,6 +72,15 @@
         <br />
         <sub>
           <b>장경훈(멘토)</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/whereami2048">
+        <img src="https://avatars.githubusercontent.com/u/104913654?s=400&u=7a8be4e17a415f325add4d9f5f8ad92a71dc4e2c&v=4" width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>김용현(멘티)</b>
         </sub>
       </a>
     </td>
