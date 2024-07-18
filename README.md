@@ -66,5 +66,14 @@
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/whereami2048">
+        <img src="https://avatars.githubusercontent.com/u/104913654?s=400&u=7a8be4e17a415f325add4d9f5f8ad92a71dc4e2c&v=4" width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>김용현(멘티)</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
