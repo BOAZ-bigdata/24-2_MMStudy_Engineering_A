@@ -67,6 +67,15 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/kyounghunJang">
+        <img src="https://avatars.githubusercontent.com/u/77001421?v=4" width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>장경훈(멘토)</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/whereami2048">
         <img src="https://avatars.githubusercontent.com/u/104913654?s=400&u=7a8be4e17a415f325add4d9f5f8ad92a71dc4e2c&v=4" width="100px;" alt=""/>
         <br />
