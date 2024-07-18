@@ -84,5 +84,14 @@
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/miining">
+        <img src="https://avatars.githubusercontent.com/u/97791413?v=4" width="100px" alt =""/>
+        <br />
+        <sub>
+          <b>전승민(멘티)</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
