@@ -57,70 +57,7 @@
         <img src="https://avatars.githubusercontent.com/u/72328687?v=4" width="100px;" alt=""/>
         <br />
         <sub>
-          <b>강병호</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mokhs00">
-        <img src="https://avatars.githubusercontent.com/u/72328687?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>
-          <b>김건형</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mokhs00">
-        <img src="https://avatars.githubusercontent.com/u/72328687?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>
-          <b>김용현</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mokhs00">
-        <img src="https://avatars.githubusercontent.com/u/72328687?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>
           <b>김한수(멘토)</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mokhs00">
-        <img src="https://avatars.githubusercontent.com/u/72328687?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>
-          <b>이지윤</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mokhs00">
-        <img src="https://avatars.githubusercontent.com/u/72328687?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>
-          <b>이지현</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mokhs00">
-        <img src="https://avatars.githubusercontent.com/u/72328687?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>
-          <b>장경훈(멘토)</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mokhs00">
-        <img src="https://avatars.githubusercontent.com/u/72328687?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>
-          <b>전승민</b>
         </sub>
       </a>
     </td>
