@@ -93,5 +93,14 @@
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/g-hyeong">
+        <img src="https://avatars.githubusercontent.com/u/60197194?v=4" width="100px" alt =""/>
+        <br />
+        <sub>
+          <b>김건형(멘티)</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
