@@ -102,5 +102,14 @@
         </sub>
       </a>
     </td>
+     <td align="center">
+      <a href="https://github.com/JIHYUN2EE">
+        <img src="https://avatars.githubusercontent.com/u/145944218?s=400&v=4" width="100px" alt =""/>
+        <br />
+        <sub>
+          <b>이지현(멘티)</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
