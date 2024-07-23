@@ -111,5 +111,15 @@
         </sub>
       </a>
     </td>
+    </td>
+     <td align="center">
+      <a href="https://github.com/JiyoonLee18">
+        <img src="https://avatars.githubusercontent.com/u/98992915?s=400&v=4" width="100px" alt =""/>
+        <br />
+        <sub>
+          <b>이지윤(멘티)</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
