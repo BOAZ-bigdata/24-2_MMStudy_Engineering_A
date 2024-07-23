@@ -11,6 +11,8 @@
 
   - 도메인 이름을 가진 사용자는 DNS를 통해 IP 주소를 반환 받게됨
   - IP 주소를 통해 HTTP 요청이 전달 되고, 웹 서버는 HTML이나 JSON 형태의 응답을 반환함
+
+  <img width="550" alt="스크린샷 2024-07-24 오전 12 26 55" src="https://github.com/user-attachments/assets/cc4263f8-9b87-4818-b665-8dcd08046844">
  
 ## 데이터베이스
 - 역할에 따라 여러 서버가 필요
