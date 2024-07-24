@@ -121,5 +121,14 @@
         </sub>
       </a>
     </td>
+     <td align="center">
+      <a href="https://github.com/Kang-bh">
+        <img src="https://avatars.githubusercontent.com/u/82449613?s=400&u=b2bcabcb31e0fbd3b57e0982eff969aa53ffd2ce&v=4" width="100px" alt =""/>
+        <br />
+        <sub>
+          <b>강병호(멘티)</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
